@@ -7,7 +7,7 @@
 #### 🧭 A little about me:
 - 👩‍💻 Backend | DevOps developer based in Italy
 - 🙋‍♀️ Pronouns: She / Her
-- 🎓 I’m currently learning: C#
+- 🎓 I’m currently learning: Python
 - ⚡ Favourite quote: "The game is afoot!"
 - 💫 Hobbies: 📖 read novels, 🕵️‍♀️ solve enigmas, 🖥 writing awesome code, 🌍 explore the metaverse
 
