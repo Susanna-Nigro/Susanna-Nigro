@@ -5,9 +5,9 @@
 </p>
 
 #### 🧭 A little about me:
-- 👩‍💻 Backend | DevOps developer based in Italy
+- 👩‍💻 Java Software Engineer developer based in Italy
 - 🙋‍♀️ Pronouns: She / Her
-- 🎓 I’m currently learning: Python
+- 🎓 I’m currently working towards: AWS Cloud Practitioner certification
 - ⚡ Favourite quote: "The game is afoot!"
 - 💫 Hobbies: 📖 read novels, 🕵️‍♀️ solve enigmas, 🖥 writing awesome code, 🌍 explore the metaverse
 
