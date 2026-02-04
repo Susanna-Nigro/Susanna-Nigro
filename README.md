@@ -1,15 +1,14 @@
-### Hi, Susanna here! 🪂
-<hr style="height: 0.25em"/>
-<br>
-<p><img src="images/coding.gif" align="right" style="max-width: 100%; display: inline-block;">
-</p>
+### Hi, Susanna here!  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/cd688186-565a-484f-aaf3-97256e443b94" />
 
-#### 🧭 A little about me:
+<hr style="height: 0.25em"/>
+
+#### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9ebd68cb-aa7e-42e9-ad8b-dab2fb42de0c" /> A little about me:
 - 👩‍💻 Java Software Engineer developer based in Italy
 - 🙋‍♀️ Pronouns: She / Her
-- 🎓 I’m currently working towards: AWS Cloud Practitioner certification
+- 🎓 Certified as <b>AWS Cloud Practitioner</b>
+- 🎓 I’m currently preparing for: AWS Developer Associate certification
 - ⚡ Favourite quote: "The game is afoot!"
-- 💫 Hobbies: 📖 read novels, 🕵️‍♀️ solve enigmas, 🖥 writing awesome code, 🌍 explore the metaverse
+- 💫 Hobbies: 📖 read novels, 🕵️‍♀️ solve enigmas, 🖥 write awesome code, 🌍 explore the world
 
 <br>
 
